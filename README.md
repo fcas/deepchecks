@@ -15,11 +15,10 @@
 stars](https://img.shields.io/github/stars/deepchecks/deepchecks.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/deepchecks/deepchecks/stargazers/)
 ![build](https://github.com/deepchecks/deepchecks/actions/workflows/build.yml/badge.svg)
 ![pkgVersion](https://img.shields.io/pypi/v/deepchecks)
-[![Maintainability](https://api.codeclimate.com/v1/badges/970b11794144139975fa/maintainability)](https://codeclimate.com/github/deepchecks/deepchecks/maintainability)
 [![Coverage
 Status](https://coveralls.io/repos/github/deepchecks/deepchecks/badge.svg?branch=main)](https://coveralls.io/github/deepchecks/deepchecks?branch=main) 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-round)](#https://github.com/deepchecks/deepchecks/blob/main/CONTRIBUTING.rst)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-round)](#https://github.com/deepchecks/deepchecks/blob/main/CONTRIBUTING.rst)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!---
@@ -365,6 +364,7 @@ key](https://allcontributors.org/docs/en/emoji-key)):
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.kaggle.com/rayanaay"><img src="https://avatars.githubusercontent.com/u/55285736?v=4?s=100" width="100px;" alt="AIT ALI YAHIA Rayane"/><br /><sub><b>AIT ALI YAHIA Rayane</b></sub></a><br /><a href="#code-RayanAAY-ops" title="Code">💻</a> <a href="#ideas-RayanAAY-ops" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/chris-santiago"><img src="https://avatars.githubusercontent.com/u/40875112?v=4?s=100" width="100px;" alt="Chris Santiago"/><br /><sub><b>Chris Santiago</b></sub></a><br /><a href="#bug-chris-santiago" title="Bug reports">🐛</a> <a href="#code-chris-santiago" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

@@ -110,12 +110,12 @@ The yaml file for the GitHub Actions workflow is as follows:
 
     jobs:
       build:
-        runs-on: ubuntu-latest
+        runs-on: ubuntu-22.04
         steps:
           - name: Checkout Repository
-            uses: actions/checkout@v3
+            uses: actions/checkout@v4
           - name: Set up Python 3.8
-            uses: actions/setup-python@v2
+            uses: actions/setup-python@v5
             with:
               python-version: 3.8
           - name: Install dependencies
@@ -135,7 +135,7 @@ The yaml file for the GitHub Actions workflow is as follows:
             run: |
               python validate_model_performance.py
           - name: Archive Deepchecks Results
-            uses: actions/upload-artifact@v3
+            uses: actions/upload-artifact@v4
             # Always run this step even if previous step failed
             run: always()
             with:
